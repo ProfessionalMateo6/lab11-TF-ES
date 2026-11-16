@@ -1,3 +1,7 @@
+# https://github.com/ProfessionalMateo6/lab11-TF-ES
+# Partner 1: Takumi Fenderson
+# Partner 2: Eduardo Silva
+
 import unittest
 from calculator import *
 
