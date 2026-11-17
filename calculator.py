@@ -1,3 +1,6 @@
+# https://github.com/ProfessionalMateo6/lab11-TF-ES
+# Partner 1: Takumi Fenderson
+# Partner 2: Eduardo Silva
 """
 calculator.py
 - Defines functions used to create a simple calculator
